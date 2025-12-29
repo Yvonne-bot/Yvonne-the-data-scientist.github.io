@@ -16,8 +16,8 @@
 ---
 
 ## Education
-- **MSc Data Science (Distinction)** | Coventry University  
-- **BSc Telecommunications Engineering** | Makerere University  
+- **MSc Data Science (Distinction)** | Coventry University (2025)
+- **BSc Telecommunications Engineering** | Makerere University (2022)
 
 ---
 
