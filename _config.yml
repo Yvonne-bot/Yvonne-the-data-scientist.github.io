@@ -1,6 +1,8 @@
 title: Yvonne Ritah Musinguzi 
 logo: /assets/img/headshot_circle_xsmall.png
-description: Data science portfolio.
+description: *Data Science Portfolio*
 show_downloads: true
 theme: jekyll-theme-minimal
 
+github:
+  is_project_page: false
