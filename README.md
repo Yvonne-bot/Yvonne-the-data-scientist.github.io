@@ -4,6 +4,17 @@
 
 ---
 
+## Technical Skills
+- **Programming:** Python, R, SQL  
+- **Machine Learning:** Supervised & Unsupervised Learning, Ensemble Methods, Model Evaluation  
+- **Deep Learning:** CNN, LSTM, Attention Mechanisms, TensorFlow/Keras  
+- **Natural Language Processing:** Text Preprocessing, TF-IDF, Similarity Modelling  
+- **Big Data & Analytics:** PySpark, Scalable ML Pipelines  
+- **Data Visualisation:** Tableau, Matplotlib, Seaborn  
+- **Responsible AI:** Model Robustness, Explainability (LIME), Ethical ML  
+
+---
+
 ## Education
 - **MSc Data Science (Distinction)** | Coventry University  
 - **BSc Telecommunications Engineering** | Makerere University  
