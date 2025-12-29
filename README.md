@@ -1,14 +1,12 @@
 # Data Scientist
 
+#### Applied Machine Learning • Research-Oriented Projects • Healthcare & NLP
+
+---
+
 ## Education
-
-**MSc Data Science (Distinction)**  
-Coventry University  
-Final Project: *Attention-Based CNN-LSTM for Respiratory Sound Classification*
-
-**BSc Telecommunications Engineering**  
-Makerere University  
-Final Project: *Collision Avoidance Algorithm Based on Vehicle-to-Vehicle (V2V) Communication*
+- **MSc Data Science (Distinction)** | Coventry University  
+- **BSc Telecommunications Engineering** | Makerere University  
 
 ---
 
@@ -16,44 +14,46 @@ Final Project: *Collision Avoidance Algorithm Based on Vehicle-to-Vehicle (V2V) 
 
 ### Attention-Based CNN-LSTM for Respiratory Sound Classification
 
-Built deep learning models to classify respiratory sounds using the ICBHI 2017 dataset. Implemented CNN, CNN-LSTM, and attention-based CNN-LSTM architectures trained on log-Mel spectrograms. Addressed class imbalance and improved robustness through data augmentation. Applied LIME to explain model predictions and highlight diagnostically relevant regions.
+Developed and evaluated deep learning models for automated respiratory sound classification using the ICBHI 2017 dataset. The project focused on addressing real-world challenges in healthcare AI, including class imbalance, environmental noise, and limited model interpretability.
 
-**Tools:** Python, TensorFlow/Keras, CNN, LSTM, Attention, Audio Signal Processing, LIME  
+Implemented CNN, CNN-LSTM, and attention-based CNN-LSTM architectures trained on log-Mel spectrograms to capture both spectral and temporal characteristics of respiratory cycles. Robustness was improved through data augmentation, and explainability was introduced using LIME to analyse model decision behaviour.
 
-**Impact:** Improved performance over baseline models and demonstrated interpretable deep learning for healthcare decision support.
+**Strengths demonstrated:**  
+Deep learning model design · Research-style evaluation · Explainable AI · Healthcare-focused ML
 
-**Repository:**  
+🔗 Repository:  
 https://github.com/Yvonne-bot/Attention-Based-CNN-LSTM-for-Respiratory-Sound-Classification
 
 ---
 
 ### Netflix Content Analysis, Text Classification, and Similarity Modelling
 
-Developed scalable NLP pipelines to analyse over 8,000 Netflix titles. Applied text preprocessing and TF-IDF feature engineering for supervised classification and content similarity modelling using cosine similarity. Built PySpark-based workflows and visualised insights using Tableau.
+Applied big data analytics and natural language processing techniques to analyse over 8,000 Netflix titles. This project explored how large-scale textual metadata can support content classification and recommendation-style similarity modelling.
 
-**Tools:** Python, PySpark, NLP, TF-IDF, Cosine Similarity, Scikit-learn, Tableau  
+Built scalable PySpark pipelines for text preprocessing and TF-IDF feature extraction, trained supervised classification models, and implemented cosine similarity to identify related content. Insights were communicated through Tableau dashboards to support exploratory analysis and stakeholder understanding.
 
-**Impact:** Demonstrated large-scale text analytics and content similarity modelling using big data tools.
+**Strengths demonstrated:**  
+Big data processing · NLP feature engineering · Scalable ML pipelines · Data visualisation
 
-**Repository:**  
+🔗 Repository:  
 https://github.com/Yvonne-bot/Netflix-Content-Analysis-Text-Classification-and-Similarity-Modelling
 
 ---
 
 ### Maternal Health Risk Classification Using Machine Learning
 
-Applied machine learning models to predict maternal health risk levels using clinical indicators. Addressed class imbalance using SMOTE and evaluated models with stratified cross-validation. Tree-based and ensemble models achieved the strongest results.
+Developed and evaluated machine learning models to predict maternal health risk levels (Low, Mid, High) using routinely collected clinical indicators. The project emphasised responsible model development for decision-support use in healthcare contexts.
 
-**Tools:** Python, Scikit-learn, Random Forest, XGBoost, SMOTE  
+Compared classical and ensemble learning approaches, addressed class imbalance using SMOTE, and applied stratified cross-validation for robust evaluation. Model performance and limitations were analysed with explicit consideration of ethical use and real-world deployment constraints.
 
-**Impact:** Showed how machine learning can support risk identification in maternal healthcare contexts.
+**Strengths demonstrated:**  
+Classical ML · Imbalanced data handling · Model evaluation · Ethical and responsible AI
 
-**Repository:**  
+🔗 Repository:  
 https://github.com/Yvonne-bot/Maternal-Health-Risk-Classification
 
 ---
 
 ## Contact
-
-Email: ymusinguzi96@gmail.com  
-GitHub: https://github.com/Yvonne-bot
+- **Email:** ymusinguzi96@gmail.com  
+- **GitHub:** https://github.com/Yvonne-bot
