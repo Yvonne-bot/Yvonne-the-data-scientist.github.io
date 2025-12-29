@@ -31,9 +31,9 @@ Implemented CNN, CNN-LSTM, and attention-based CNN-LSTM architectures trained on
 
 **Strengths demonstrated:**  
 Deep learning model design · Research-style evaluation · Explainable AI · Healthcare-focused ML
+  
+🔗 Repository: [GitHub](https://github.com/Yvonne-bot/Attention-Based-CNN-LSTM-for-Respiratory-Sound-Classification)
 
-🔗 Repository:  
-https://github.com/Yvonne-bot/Attention-Based-CNN-LSTM-for-Respiratory-Sound-Classification
 
 ---
 
@@ -46,8 +46,7 @@ Built scalable PySpark pipelines for text preprocessing and TF-IDF feature extra
 **Strengths demonstrated:**  
 Big data processing · NLP feature engineering · Scalable ML pipelines · Data visualisation
 
-🔗 Repository:  
-https://github.com/Yvonne-bot/Netflix-Content-Analysis-Text-Classification-and-Similarity-Modelling
+🔗 Repository: [GitHub](https://github.com/Yvonne-bot/Netflix-Content-Analysis-Text-Classification-and-Similarity-Modelling)
 
 ---
 
@@ -60,11 +59,12 @@ Compared classical and ensemble learning approaches, addressed class imbalance u
 **Strengths demonstrated:**  
 Classical ML · Imbalanced data handling · Model evaluation · Ethical and responsible AI
 
-🔗 Repository:  
-https://github.com/Yvonne-bot/Maternal-Health-Risk-Classification
+🔗 Repository: [GitHub](https://github.com/Yvonne-bot/Maternal-Health-Risk-Classification)
 
 ---
 
 ## Contact
-- **Email:** ymusinguzi96@gmail.com  
-- **GitHub:** https://github.com/Yvonne-bot
+📧 **Email:** [ymusinguzi96@gmail.com](mailto:ymusinguzi96@gmail.com)
+
+🔗 **GitHub:** [github.com/Yvonne-bot](https://github.com/Yvonne-bot)
+
