@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Applied Machine Learning • Research-Oriented Projects • Healthcare & NLP
+#### Applied Machine Learning | Research-Oriented Projects | Healthcare & NLP
 
 ---
 
